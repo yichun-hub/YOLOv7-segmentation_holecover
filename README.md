@@ -5,7 +5,7 @@
   code of format coversion: [link](https://github.com/yichun-hub/VIA-format-to-YOLOv7-seg)
 
   ## 2. Modify data.yaml
-  Modify a yaml file for the classes of the custom dataset in `yolov7-mask/data/`
+  Modify a yaml file for the classes of the custom dataset in `yolov7-mask/data/`   
   give images and labels path and classes.
 
   ## 3. Training
