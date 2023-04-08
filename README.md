@@ -1,8 +1,8 @@
 # YOLOv7-segmentation_holecover
   ## Detail informaion can be browsed on my [Medium](https://medium.com/@fearless_fusion_snake_755/yolov7-instance-segmentation-%E8%A8%93%E7%B7%B4%E6%95%99%E5%AD%B8-3b9059aafe8a).
   ## 1. Converts the format of VGG Image Annotator (VIA) to the YOLOv7 segmentation format.
-  Classes:manhole, handhole
-  code of format coversion: link
+  Classes:manhole, handhole   
+  code of format coversion: [link](https://github.com/yichun-hub/VIA-format-to-YOLOv7-seg)
 
   ## 2. Modify data.yaml
   Modify a yaml file for the classes of the custom dataset in `yolov7-mask/data/`
